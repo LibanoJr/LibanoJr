@@ -1,16 +1,14 @@
-## Hi there 👋
+# Líbano Abboud Júnior
 
-<!--
-**LibanoJr/LibanoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cientista de dados em Brasília. Construo sistemas que transformam documentos
+e dados públicos em informação confiável: **LLM para ler, regras para conferir,
+humano para decidir.**
 
-Here are some ideas to get you started:
+- 🏠 Hoje: responsável técnico pela modelagem de um sistema de precificação automatizada de imóveis
+- 🛠️ Stack: Python · SQL · PL/SQL · Django · PostgreSQL · Oracle APEX · Docker · LLMs
+- 🎓 Pós em Ciência de Dados e Machine Learning · Engenharia da Computação (UniCEUB)
+- 💼 [LinkedIn](https://www.linkedin.com/in/libano-abboud)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em destaque
+- **[Cotador](https://github.com/LibanoJr/cotador-dados)**: esteira de dados com validação regulatória e auditoria (57 testes, demo no ar)
+- **[GovAudit Pro](https://github.com/LibanoJr/govaudit-pro)**: auditoria de contratos públicos com IA (TCC)
